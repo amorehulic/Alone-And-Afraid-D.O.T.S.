@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1c7986dab6fd45641b7900ee7017d969
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_QsThumbnailTexture: {instanceID: 0}
+  - m_AsThumbnailTexture: {instanceID: 0}
+  - m_MsThumbnailTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/NeoSaveGames/SaveGameManager.cs
+  uploadId: 597273

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b9557e846379294086c4b6d1864e491
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Materials/Environment/MAT_Prototypes_Skybox_Night.mat
+  uploadId: 597273

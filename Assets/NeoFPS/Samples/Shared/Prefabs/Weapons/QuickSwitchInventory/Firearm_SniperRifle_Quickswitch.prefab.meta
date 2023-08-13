@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8096f68f8e8ba1e4ca12fb702e08f387
+timeCreated: 1493908133
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/QuickSwitchInventory/Firearm_SniperRifle_Quickswitch.prefab
+  uploadId: 597273

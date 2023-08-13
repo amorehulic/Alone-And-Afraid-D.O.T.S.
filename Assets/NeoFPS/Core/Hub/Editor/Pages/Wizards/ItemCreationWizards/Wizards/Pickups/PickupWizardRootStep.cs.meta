@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 12fe57200b0b6fe4a88307e962d3bb07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ItemCreationWizards/Wizards/Pickups/PickupWizardRootStep.cs
+  uploadId: 597273

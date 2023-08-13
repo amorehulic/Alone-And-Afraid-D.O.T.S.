@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 13027a0fcdf7ebb4ea590983994f42a0
+timeCreated: 1481293621
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Prefabs/PrototypeSpawnerlessCharacter.prefab
+  uploadId: 597273

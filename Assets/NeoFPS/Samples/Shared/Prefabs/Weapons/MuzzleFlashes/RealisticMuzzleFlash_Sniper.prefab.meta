@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4df2194d202d9634a9a9a7c78113536a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/MuzzleFlashes/RealisticMuzzleFlash_Sniper.prefab
+  uploadId: 597273

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 16c671b14e9f8d74e87b444f77b51393
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Camera/AdditiveEffects/SimpleBreathHandler.cs
+  uploadId: 597273

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6901dba193d9405459582e04e6968355
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _GlowRamp: {fileID: 2800000, guid: 38b47325704c0bf4aaa42915f812545e, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Shaders/Glow/NeoFPS_GlowSpecular_DistanceMasked.shader
+  uploadId: 597273

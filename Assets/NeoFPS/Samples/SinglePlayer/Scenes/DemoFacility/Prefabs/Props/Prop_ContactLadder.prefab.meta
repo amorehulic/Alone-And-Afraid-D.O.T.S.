@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90117e6ef7ade1143979126455a05347
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Prefabs/Props/Prop_ContactLadder.prefab
+  uploadId: 597273

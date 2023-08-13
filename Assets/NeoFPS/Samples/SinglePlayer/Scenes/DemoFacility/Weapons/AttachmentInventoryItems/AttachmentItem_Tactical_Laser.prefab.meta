@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eec1e76fbdd35774583f5f56fb607202
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/AttachmentInventoryItems/AttachmentItem_Tactical_Laser.prefab
+  uploadId: 597273

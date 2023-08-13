@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 154388653ec88ad4b9425a9bb036a297
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ItemCreationWizards/Templates/ThrownTemplate_Grenade.asset
+  uploadId: 597273

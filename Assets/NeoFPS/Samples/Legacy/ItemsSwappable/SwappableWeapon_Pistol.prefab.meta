@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4050491fb7eb794197d3a81c25bf5e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Legacy/ItemsSwappable/SwappableWeapon_Pistol.prefab
+  uploadId: 597273

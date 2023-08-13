@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81748b8b26915e3429e519a752b35f4d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Extensions/NeoFpsRenderPipeline_BIRP_v1.unitypackage
+  uploadId: 597273

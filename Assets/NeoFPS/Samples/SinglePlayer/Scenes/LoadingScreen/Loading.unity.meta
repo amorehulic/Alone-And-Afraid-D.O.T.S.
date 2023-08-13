@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 223220eb03f54e74bb906fb42659ba97
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/LoadingScreen/Loading.unity
+  uploadId: 597273

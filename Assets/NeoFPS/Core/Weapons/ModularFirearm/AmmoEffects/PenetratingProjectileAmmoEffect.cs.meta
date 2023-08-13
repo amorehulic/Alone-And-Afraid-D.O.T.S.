@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3b0b035b420b884f811ddff85e92964
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/AmmoEffects/PenetratingProjectileAmmoEffect.cs
+  uploadId: 597273

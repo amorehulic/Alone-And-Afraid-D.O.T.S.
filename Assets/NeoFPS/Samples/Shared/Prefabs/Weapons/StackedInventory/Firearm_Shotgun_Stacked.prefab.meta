@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57de981652d79504b8ab486c43644fd6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/StackedInventory/Firearm_Shotgun_Stacked.prefab
+  uploadId: 597273

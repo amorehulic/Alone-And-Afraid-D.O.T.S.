@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98a160ff0a57cb144bdf9a4c95179792
+timeCreated: 1496932155
+licenseType: Pro
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Materials/VFX_BarrelHaze.mat
+  uploadId: 597273

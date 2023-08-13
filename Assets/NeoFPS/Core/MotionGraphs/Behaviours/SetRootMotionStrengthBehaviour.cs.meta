@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 181b8709e74ced74bb29b3c0f4b0f813
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Behaviours/SetRootMotionStrengthBehaviour.cs
+  uploadId: 597273

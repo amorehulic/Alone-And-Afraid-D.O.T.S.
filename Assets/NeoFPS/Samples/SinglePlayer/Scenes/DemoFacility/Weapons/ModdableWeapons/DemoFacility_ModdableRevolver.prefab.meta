@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eac6c0b6378f21e4e9821225b19319e6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/ModdableWeapons/DemoFacility_ModdableRevolver.prefab
+  uploadId: 597273

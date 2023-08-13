@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2b59432c1635864d9c614996dfe4963
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/Attachments/Optics_ScopeSniper_RenderTexture.prefab
+  uploadId: 597273

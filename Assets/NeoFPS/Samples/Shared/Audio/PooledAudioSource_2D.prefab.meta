@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa191ce4f2a10ce48b8a7fd05adb9df0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Audio/PooledAudioSource_2D.prefab
+  uploadId: 597273

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1f584881cb0f56e47a64c6a27ce99298
+timeCreated: 1494692264
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Surfaces/SimpleSurface.cs
+  uploadId: 597273

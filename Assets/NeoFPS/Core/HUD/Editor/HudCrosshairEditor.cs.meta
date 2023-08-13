@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 196a80b3d1b98524487fc135c8b3f9c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/HUD/Editor/HudCrosshairEditor.cs
+  uploadId: 597273

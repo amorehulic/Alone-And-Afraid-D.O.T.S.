@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5bfc85ed5be73b247a94567c700e7212
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/FirstPersonBody/FirstPersonCharacterInventoryWatcher.cs
+  uploadId: 597273

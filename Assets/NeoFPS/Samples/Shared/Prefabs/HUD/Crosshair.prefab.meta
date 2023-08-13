@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bd2322c28a3b9384c863f6fed10d0554
+timeCreated: 1484865751
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/HUD/Crosshair.prefab
+  uploadId: 597273

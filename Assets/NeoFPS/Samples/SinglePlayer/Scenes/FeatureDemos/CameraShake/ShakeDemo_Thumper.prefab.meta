@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc86a2cb6d50bbe43bddf144ca3bf7c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/CameraShake/ShakeDemo_Thumper.prefab
+  uploadId: 597273

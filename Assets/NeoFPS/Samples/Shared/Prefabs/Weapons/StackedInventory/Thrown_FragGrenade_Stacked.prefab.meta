@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3883f19df8c740b4a9a9ddbdb1cc557e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/StackedInventory/Thrown_FragGrenade_Stacked.prefab
+  uploadId: 597273

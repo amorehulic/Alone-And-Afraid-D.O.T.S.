@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 42d91793782a3fb41ad8c25216c033c0
+timeCreated: 1497002423
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/UserInterface/Popups/InfoPopup.cs
+  uploadId: 597273

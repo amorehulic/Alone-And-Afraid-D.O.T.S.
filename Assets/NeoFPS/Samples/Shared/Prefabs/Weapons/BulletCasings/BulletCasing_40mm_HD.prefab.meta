@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f10eebfd522fd41409177e21350ec9a1
+timeCreated: 1506598852
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/BulletCasings/BulletCasing_40mm_HD.prefab
+  uploadId: 597273

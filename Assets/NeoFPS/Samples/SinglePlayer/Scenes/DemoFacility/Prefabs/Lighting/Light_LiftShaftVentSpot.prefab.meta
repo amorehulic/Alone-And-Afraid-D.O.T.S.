@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af3a767db19eb4b40acf20fdb8fe1e37
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Prefabs/Lighting/Light_LiftShaftVentSpot.prefab
+  uploadId: 597273

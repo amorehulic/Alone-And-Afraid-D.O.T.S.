@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c01fd99b7895eae48a9781e6b7c15dbb
+timeCreated: 1530796907
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Conditions/Editor/IntConditionDrawer.cs
+  uploadId: 597273

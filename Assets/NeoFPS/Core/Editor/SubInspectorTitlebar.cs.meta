@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 736c03edf2876e947b569560903f65f7
+timeCreated: 1530609788
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Editor/SubInspectorTitlebar.cs
+  uploadId: 597273

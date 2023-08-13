@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 77d5557736483054eb2f3f00d8f8709e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/MainMenu/MainMenu.unity
+  uploadId: 597273

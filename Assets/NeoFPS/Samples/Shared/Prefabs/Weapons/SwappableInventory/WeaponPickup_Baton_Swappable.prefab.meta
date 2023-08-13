@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2fd7255e522cb241832ebf7ae761fed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/SwappableInventory/WeaponPickup_Baton_Swappable.prefab
+  uploadId: 597273

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8aff276ef71fcae4e890a3a8a7987eca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/JetpacksAndGuidedMissiles/JetpacksMissiles_BulletTrail.mat
+  uploadId: 597273

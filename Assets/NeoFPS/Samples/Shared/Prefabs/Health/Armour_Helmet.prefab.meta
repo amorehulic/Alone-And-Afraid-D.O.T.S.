@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d64bb3a12b682f6438476834d0149bb9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Health/Armour_Helmet.prefab
+  uploadId: 597273

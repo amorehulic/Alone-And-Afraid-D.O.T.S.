@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71152a345ff2b114d8fc49574cf78238
+timeCreated: 1492642686
+licenseType: Free
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Materials/VFX_Powerup.mat
+  uploadId: 597273

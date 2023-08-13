@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d3fadaae6253404f98f31fd5f68e645
+timeCreated: 1427463081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/PhysicsMaterials/Bouncy.physicmaterial
+  uploadId: 597273

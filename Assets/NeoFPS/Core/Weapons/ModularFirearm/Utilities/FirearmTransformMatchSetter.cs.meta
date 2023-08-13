@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6a906dd110eccf64cbd5db3928d48a2b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Utilities/FirearmTransformMatchSetter.cs
+  uploadId: 597273

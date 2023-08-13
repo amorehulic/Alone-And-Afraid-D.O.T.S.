@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66cac9465f371f547b6036afd25fe7c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Health/Armour_Body.prefab
+  uploadId: 597273

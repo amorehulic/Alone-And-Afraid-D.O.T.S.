@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8356e1fe6a41d074eb3a218c3e0a989e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Interaction/Doors/KinematicHingeDoor.cs
+  uploadId: 597273

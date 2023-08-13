@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e85868b14c533049a620a3917f7941b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Editor/NeoSaveGameSearchStrings.json
+  uploadId: 597273

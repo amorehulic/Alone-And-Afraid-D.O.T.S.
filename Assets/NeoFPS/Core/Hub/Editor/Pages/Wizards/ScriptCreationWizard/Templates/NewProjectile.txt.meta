@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66c584fdf4eef644e8244c22aa053d59
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ScriptCreationWizard/Templates/NewProjectile.txt
+  uploadId: 597273

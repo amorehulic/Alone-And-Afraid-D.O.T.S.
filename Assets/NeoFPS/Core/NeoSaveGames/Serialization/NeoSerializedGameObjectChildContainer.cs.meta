@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f599a7842417b264c92646cb5dc0d25a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/NeoSaveGames/Serialization/NeoSerializedGameObjectChildContainer.cs
+  uploadId: 597273

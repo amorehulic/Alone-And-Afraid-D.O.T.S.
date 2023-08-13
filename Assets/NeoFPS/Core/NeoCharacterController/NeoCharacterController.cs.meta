@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2e30fea2bdec81448a2aab9665bcfa38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 50
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/NeoCharacterController/NeoCharacterController.cs
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a1adcf29f5781b44bcb540e79124fd0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FirstPersonBody/Weapons/FirstPersonBody_FirearmShotgun.prefab
+  uploadId: 597273

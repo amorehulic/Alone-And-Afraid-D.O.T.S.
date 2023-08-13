@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b6f342d29a171c34f95b1da915bbf52b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Audio/SurfaceFootstepAudioSystem.cs
+  uploadId: 597273

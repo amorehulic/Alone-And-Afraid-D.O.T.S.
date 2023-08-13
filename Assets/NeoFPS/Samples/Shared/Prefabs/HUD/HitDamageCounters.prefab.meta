@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 294d13b807aab474c8591c172b9ebf1b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/HUD/HitDamageCounters.prefab
+  uploadId: 597273

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 396f270b64f8b484aa4ed16b2c14a74d
+timeCreated: 1531409585
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Conditions/Editor/EnhancedRayLookaheadConditionDrawer.cs
+  uploadId: 597273

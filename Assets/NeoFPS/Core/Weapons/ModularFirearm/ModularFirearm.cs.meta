@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 33b199cb4b1cdb34a854f24accd4d102
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -3
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/ModularFirearm.cs
+  uploadId: 597273

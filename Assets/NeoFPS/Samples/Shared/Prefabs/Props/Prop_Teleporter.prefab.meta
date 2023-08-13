@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 134225dc6fd1f4445b2336b1ff732fba
+timeCreated: 1524330180
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Props/Prop_Teleporter.prefab
+  uploadId: 597273

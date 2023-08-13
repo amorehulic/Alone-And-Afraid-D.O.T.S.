@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 118ac24789ec1424f90392e12d900bc2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/MovingPlatforms/MovingPlatforms_HorizontalMover.prefab
+  uploadId: 597273

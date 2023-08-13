@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c8d2d99fe844e71478de249a87834682
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Parkour/Parkour_Spawner.prefab
+  uploadId: 597273

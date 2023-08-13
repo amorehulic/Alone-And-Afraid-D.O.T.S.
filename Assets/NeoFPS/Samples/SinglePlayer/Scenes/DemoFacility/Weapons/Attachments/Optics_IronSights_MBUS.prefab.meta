@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ffca310f336a51a459747f40cfad1199
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/Attachments/Optics_IronSights_MBUS.prefab
+  uploadId: 597273

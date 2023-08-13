@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96cd6cc6c2b881244aab69c9864f6f06
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Ladders/LaddersDemo_MotionGraph.asset
+  uploadId: 597273

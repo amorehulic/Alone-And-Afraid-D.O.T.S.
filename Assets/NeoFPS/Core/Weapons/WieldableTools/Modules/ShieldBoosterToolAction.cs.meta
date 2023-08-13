@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9a5629bd14da6ea42881a9f8ea2be282
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/WieldableTools/Modules/ShieldBoosterToolAction.cs
+  uploadId: 597273

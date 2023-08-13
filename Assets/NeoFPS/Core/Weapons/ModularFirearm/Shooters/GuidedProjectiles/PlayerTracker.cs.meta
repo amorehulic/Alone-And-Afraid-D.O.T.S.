@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2923dfd8dc6548f4aab08f870b62dbb8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Shooters/GuidedProjectiles/PlayerTracker.cs
+  uploadId: 597273

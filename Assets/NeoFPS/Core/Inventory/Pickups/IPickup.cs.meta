@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d865939bc9c3ba046a98eec5d004f6c8
+timeCreated: 1504540316
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Inventory/Pickups/IPickup.cs
+  uploadId: 597273

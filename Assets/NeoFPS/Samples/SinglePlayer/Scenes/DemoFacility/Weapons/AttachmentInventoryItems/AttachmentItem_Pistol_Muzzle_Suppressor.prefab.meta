@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d869cdc58c738b4eb69b1b50fa61c28
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/AttachmentInventoryItems/AttachmentItem_Pistol_Muzzle_Suppressor.prefab
+  uploadId: 597273

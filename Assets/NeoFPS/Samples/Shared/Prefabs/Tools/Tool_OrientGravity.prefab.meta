@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a388a23bc5fafa4999092b50f4ead00
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Tools/Tool_OrientGravity.prefab
+  uploadId: 597273

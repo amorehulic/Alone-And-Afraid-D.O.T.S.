@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66c30a4f87820904db21da86289a14aa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/SwappableInventory/Melee_Baton_Swappable.prefab
+  uploadId: 597273

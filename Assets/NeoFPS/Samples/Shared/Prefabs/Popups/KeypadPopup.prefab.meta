@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 775cc5a9b0dabea49b642e847741a3bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Popups/KeypadPopup.prefab
+  uploadId: 597273

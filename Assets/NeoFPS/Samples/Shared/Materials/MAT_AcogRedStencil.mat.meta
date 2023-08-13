@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 145f947a95e3fae47a3aa5479be43e98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Materials/MAT_AcogRedStencil.mat
+  uploadId: 597273

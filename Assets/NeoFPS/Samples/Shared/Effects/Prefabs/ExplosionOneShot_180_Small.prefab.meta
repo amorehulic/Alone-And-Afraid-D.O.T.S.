@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f7cd20cd9f196a4a9a92df625d8c01a
+timeCreated: 1494005143
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Prefabs/ExplosionOneShot_180_Small.prefab
+  uploadId: 597273

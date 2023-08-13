@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fecc771b62f64140bf5b8382f19203d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/DemoFacility_PickupFragGrenade.prefab
+  uploadId: 597273

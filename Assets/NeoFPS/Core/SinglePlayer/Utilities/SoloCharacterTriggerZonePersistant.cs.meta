@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7055d5bfd7b746b4b99cf86a24dd4246
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/SinglePlayer/Utilities/SoloCharacterTriggerZonePersistant.cs
+  uploadId: 597273

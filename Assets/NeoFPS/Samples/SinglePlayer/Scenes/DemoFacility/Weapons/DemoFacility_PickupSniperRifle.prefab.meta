@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4f6445f909c9c64f962d0c656175637
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/DemoFacility_PickupSniperRifle.prefab
+  uploadId: 597273

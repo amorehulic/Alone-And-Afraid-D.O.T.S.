@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bcf4780ffa39775489da8414bc6f136e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250425
+  packageName: GPU ECS Animation Baker
+  packageVersion: 1.0.1
+  assetPath: Assets/GPUECSAnimationBaker/Samples/Characters/Ch36/Ch36Script.cs
+  uploadId: 599725

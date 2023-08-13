@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 76e2e5b67caa8f343a582ee4901ece0e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ScriptCreationWizard/Templates/NewAmmoModule.txt
+  uploadId: 597273

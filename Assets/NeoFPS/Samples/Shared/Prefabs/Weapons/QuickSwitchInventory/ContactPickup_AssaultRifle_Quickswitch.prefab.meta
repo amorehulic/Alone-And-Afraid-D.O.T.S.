@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6630bcc1b8a28fc4ca7367ef7cc62869
+timeCreated: 1507727981
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/QuickSwitchInventory/ContactPickup_AssaultRifle_Quickswitch.prefab
+  uploadId: 597273

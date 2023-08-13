@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 95baad6f988310143b083bd9b6e83839
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Recoil/FirearmRecoilEffect.cs
+  uploadId: 597273

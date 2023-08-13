@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 41bb820a3c2d1704f81d65ecd1cc0f9d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Parkour/FeatureDemo_Parkour.unity
+  uploadId: 597273

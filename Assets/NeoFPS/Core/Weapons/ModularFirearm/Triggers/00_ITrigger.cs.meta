@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0956eb3af86f76649a3e27c456b1bf24
+timeCreated: 1493648523
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Triggers/00_ITrigger.cs
+  uploadId: 597273

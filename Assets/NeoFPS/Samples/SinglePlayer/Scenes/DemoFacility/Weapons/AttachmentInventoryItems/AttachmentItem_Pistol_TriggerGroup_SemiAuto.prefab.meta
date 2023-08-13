@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db3012751c559574ebdf1e592fb32a6c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/AttachmentInventoryItems/AttachmentItem_Pistol_TriggerGroup_SemiAuto.prefab
+  uploadId: 597273

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f63ee25ad0833be4a8e040256add8913
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Utilities/OriginShift/IOriginShiftSubscriber.cs
+  uploadId: 597273

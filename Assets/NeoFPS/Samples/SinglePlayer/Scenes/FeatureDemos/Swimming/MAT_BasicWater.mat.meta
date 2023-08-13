@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3f0d465b2c4dee419de20a5edd14d0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Swimming/MAT_BasicWater.mat
+  uploadId: 597273

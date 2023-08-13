@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 83edd995a1902c94098088f3ef81e802
+timeCreated: 1506693819
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/Ammo/Inventory_Ammo357magnum_Full.prefab
+  uploadId: 597273

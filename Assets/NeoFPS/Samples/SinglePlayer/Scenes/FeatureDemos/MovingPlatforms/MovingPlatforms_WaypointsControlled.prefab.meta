@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff371dfbfd903d748ad7ccaf9b10d108
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/MovingPlatforms/MovingPlatforms_WaypointsControlled.prefab
+  uploadId: 597273

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b833b8f19958e2f4dbbbd959060d5f97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/HUD/SlowMoChargeMeter.prefab
+  uploadId: 597273

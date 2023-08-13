@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fce8c89add27fea4a95e1007e9b3eaf7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/StandaloneTools/StandaloneToolsReadme.asset
+  uploadId: 597273

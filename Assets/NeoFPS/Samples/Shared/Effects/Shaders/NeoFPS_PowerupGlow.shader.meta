@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3aae37f19bc8d634594c10ab7f36b04f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Shaders/NeoFPS_PowerupGlow.shader
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e4ce16209b8b0e49af9d9395d53acbd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/AttachmentInventoryItems/AttachmentItem_AssaultRifle_Muzzle_Suppressor.prefab
+  uploadId: 597273

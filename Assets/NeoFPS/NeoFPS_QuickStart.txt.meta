@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ef64c42049306a4987f07e1cf0a9b22
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/NeoFPS_QuickStart.txt
+  uploadId: 597273

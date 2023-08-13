@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e838628cda2b7d45a24341f80c89f09
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FirstPersonBody/FirstPersonBody_KuboldDemoAssets.unitypackage
+  uploadId: 597273

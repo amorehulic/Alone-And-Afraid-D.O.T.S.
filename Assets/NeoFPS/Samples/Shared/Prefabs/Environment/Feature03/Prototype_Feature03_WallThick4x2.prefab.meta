@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f189ff5aba06244b9bd74282354368b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Environment/Feature03/Prototype_Feature03_WallThick4x2.prefab
+  uploadId: 597273

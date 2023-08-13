@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 131766012ead5364aa2b076f77ee45e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Inventory/FeatureDemo_InventoryStandard/LightingData.asset
+  uploadId: 597273

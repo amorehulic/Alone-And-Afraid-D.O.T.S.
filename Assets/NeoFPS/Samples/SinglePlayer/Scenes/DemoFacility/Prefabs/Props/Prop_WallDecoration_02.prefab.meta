@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a9d3b709ba1dca47800e2f16192a014
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Prefabs/Props/Prop_WallDecoration_02.prefab
+  uploadId: 597273

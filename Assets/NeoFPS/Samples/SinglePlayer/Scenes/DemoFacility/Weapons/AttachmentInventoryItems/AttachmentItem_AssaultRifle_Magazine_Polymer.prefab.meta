@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 432b8a5c2b93f31498fc51d6482ba8f3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/AttachmentInventoryItems/AttachmentItem_AssaultRifle_Magazine_Polymer.prefab
+  uploadId: 597273

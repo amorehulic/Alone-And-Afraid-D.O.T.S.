@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c6f2bb9d8a1e2a48898c0470a0d6673
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/AmmoEffects/Editor/SurfaceBulletPhysicsInfoEditor.cs
+  uploadId: 597273

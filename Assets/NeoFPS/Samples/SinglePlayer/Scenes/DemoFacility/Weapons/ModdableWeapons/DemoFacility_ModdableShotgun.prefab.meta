@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f376179095c5d24580ac94b4451307a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/ModdableWeapons/DemoFacility_ModdableShotgun.prefab
+  uploadId: 597273

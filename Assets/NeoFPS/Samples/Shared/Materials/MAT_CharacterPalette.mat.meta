@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90a258252e8b4d441be83446d2617a00
+timeCreated: 1487948969
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Materials/MAT_CharacterPalette.mat
+  uploadId: 597273

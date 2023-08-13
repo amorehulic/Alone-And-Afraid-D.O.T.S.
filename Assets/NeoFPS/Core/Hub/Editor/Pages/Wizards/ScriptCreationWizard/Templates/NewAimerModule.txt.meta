@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e26c5b955fcf9b3459602583c2dac9b6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ScriptCreationWizard/Templates/NewAimerModule.txt
+  uploadId: 597273

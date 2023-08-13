@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 00b9617273437ea4385ba96275f56b7a
+timeCreated: 1484741983
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Materials/Colours/PaletteGreen.mat
+  uploadId: 597273

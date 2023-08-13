@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2f2961e8e26e2024f8aea5ca6d5d4b92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ItemCreationWizards/Wizards/InteractiveObjects/InteractiveObjectWizardSteps.cs
+  uploadId: 597273

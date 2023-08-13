@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d27b31cbf1c15f14797d6b1453eac7ac
+timeCreated: 1517491007
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/Projectiles/Projectile_FragGrenade.prefab
+  uploadId: 597273

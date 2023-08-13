@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: acf0e3818e1d8b442a45a6235c811945
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Prefabs/Lighting/Light_WallStruct.prefab
+  uploadId: 597273

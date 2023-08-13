@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 758f6479e88f38d49a4ce73371a3908e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/InteractableDoors/InteractableDoors_PhysicsDoor.prefab
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af9464a548ffc5d44bf3a414018cc735
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Prefabs/Lighting/Light_TunnelSide.prefab
+  uploadId: 597273

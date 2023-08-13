@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3481bfc686a9c0b45a0cc5f9ae9f8ee8
+timeCreated: 1482947789
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Utilities/MathExtensions.cs
+  uploadId: 597273

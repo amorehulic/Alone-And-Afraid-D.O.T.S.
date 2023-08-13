@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e7ae80200c930b04989c72fe3d43c9b6
+timeCreated: 1491498856
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Utilities/AnimStateObjectSwapper.cs
+  uploadId: 597273

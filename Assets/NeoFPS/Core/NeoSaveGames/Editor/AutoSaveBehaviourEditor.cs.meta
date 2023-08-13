@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0a39498ce0abe4840a5ae2be9651dc19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/NeoSaveGames/Editor/AutoSaveBehaviourEditor.cs
+  uploadId: 597273

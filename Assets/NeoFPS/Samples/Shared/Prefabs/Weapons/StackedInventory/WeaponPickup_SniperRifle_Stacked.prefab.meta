@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1faac9ce0255094eba9d58bd8e5d397
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/StackedInventory/WeaponPickup_SniperRifle_Stacked.prefab
+  uploadId: 597273

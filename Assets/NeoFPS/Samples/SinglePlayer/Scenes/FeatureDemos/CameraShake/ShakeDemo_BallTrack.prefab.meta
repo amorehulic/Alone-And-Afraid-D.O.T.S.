@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 674d86a86d8c3c94e8b945177bc83b7a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/CameraShake/ShakeDemo_BallTrack.prefab
+  uploadId: 597273

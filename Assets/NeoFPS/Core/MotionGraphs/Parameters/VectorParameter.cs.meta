@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 81f74c22cd054fa40aef2730cff45371
+timeCreated: 1530805252
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Parameters/VectorParameter.cs
+  uploadId: 597273

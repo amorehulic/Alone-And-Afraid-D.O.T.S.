@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfee614a8420898448ccae0bf9fa9616
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ItemCreationWizards/Templates/PickupTemplate_ShieldBoost_Contact.asset
+  uploadId: 597273

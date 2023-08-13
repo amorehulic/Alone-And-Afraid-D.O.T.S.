@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 775ace70918f474448d8a21dda8231ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Resources/FpsSettings_Gamepad.asset
+  uploadId: 597273

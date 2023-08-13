@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f8e6f7b428580c46a3437c48bd82897
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/ModdableWeapons/DemoFacility_PickupModdableAssaultRifle.prefab
+  uploadId: 597273

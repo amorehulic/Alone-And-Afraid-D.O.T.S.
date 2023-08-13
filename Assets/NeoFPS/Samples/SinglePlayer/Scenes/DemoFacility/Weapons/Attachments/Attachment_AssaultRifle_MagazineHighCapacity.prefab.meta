@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 180c03087e8ea294896377008c9b7d19
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/Attachments/Attachment_AssaultRifle_MagazineHighCapacity.prefab
+  uploadId: 597273

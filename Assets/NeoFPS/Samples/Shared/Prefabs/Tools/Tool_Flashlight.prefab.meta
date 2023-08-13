@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fd28db26dc30bd409f99a95ae963882
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Tools/Tool_Flashlight.prefab
+  uploadId: 597273

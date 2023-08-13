@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f0068f0edb23a3b43aaf3caa8ce7afa2
+timeCreated: 1485374241
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Camera/AdditiveEffects/HeadDuck.cs
+  uploadId: 597273

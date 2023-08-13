@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c86549b61b54d1d448883b8285130fc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/MeleeWeapons/Editor/MeleeWeaponEditor.cs
+  uploadId: 597273

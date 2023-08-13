@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37a0fb7d88e7f6148b16b72f36ad760b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Environment/DarkGrey/Prototype_Dark_Platform1x1.prefab
+  uploadId: 597273

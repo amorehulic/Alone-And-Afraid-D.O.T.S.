@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50bc0bea6630cf24ab7af7dd3a02036a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Props/Prop_InfoLaptop.prefab
+  uploadId: 597273

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67a0d88877163084cab8c3d3d2f60372
+timeCreated: 1427463081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/PhysicsMaterials/MaxFriction.physicMaterial
+  uploadId: 597273

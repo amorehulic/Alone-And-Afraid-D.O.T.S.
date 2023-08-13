@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3cd4f99deef5d84b8ee4c41d291cc66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Parameters/Editor/TriggerParameterDrawer.cs
+  uploadId: 597273

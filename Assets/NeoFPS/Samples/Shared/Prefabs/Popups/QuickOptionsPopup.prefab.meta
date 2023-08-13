@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97d1a67d3ae72f143b39ee6bd9f85f13
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Popups/QuickOptionsPopup.prefab
+  uploadId: 597273

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0cf4b4450725c544ba35bfd75068d155
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Shaders/Optics/NeoFPS_StencilScopeInnerColorAlpha.shader
+  uploadId: 597273

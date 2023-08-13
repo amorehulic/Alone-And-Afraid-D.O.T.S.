@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f613ad0c5dcba2141b31484300105e3b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/DemoFacility_FirearmShotgun.prefab
+  uploadId: 597273

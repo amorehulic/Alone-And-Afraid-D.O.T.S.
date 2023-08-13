@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f45bb88d0f402f4eb1e3eed7d62bad9
+timeCreated: 1427463081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/PhysicsMaterials/ZeroFriction.physicMaterial
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c227f9847efc784fba29bfcfa9767d7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250425
+  packageName: GPU ECS Animation Baker
+  packageVersion: 1.0.1
+  assetPath: Assets/GPUECSAnimationBaker/Engine/AnimatorSystem/AnimationIDs.txt
+  uploadId: 599725

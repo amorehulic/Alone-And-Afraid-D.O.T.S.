@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 15103c3503911004792652094ac61f4f
+timeCreated: 1507844054
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/QuickSwitchInventory/WeaponPickup_GrenadeLauncher_Quickswitch.prefab
+  uploadId: 597273

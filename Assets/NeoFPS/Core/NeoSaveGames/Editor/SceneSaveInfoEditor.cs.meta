@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8bdcd834bfdf4c246b5b4a71e6bdd17f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/NeoSaveGames/Editor/SceneSaveInfoEditor.cs
+  uploadId: 597273

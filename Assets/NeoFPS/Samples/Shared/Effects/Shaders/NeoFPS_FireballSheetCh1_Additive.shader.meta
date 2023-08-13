@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca8cb35434c193b42a93c370fd75bda3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Shaders/NeoFPS_FireballSheetCh1_Additive.shader
+  uploadId: 597273

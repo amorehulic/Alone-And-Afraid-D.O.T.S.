@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5df75151d36fe2e4b94ddbb4d5ad98d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/HUD/HudAdvancedCrosshairStyleStandard.cs
+  uploadId: 597273

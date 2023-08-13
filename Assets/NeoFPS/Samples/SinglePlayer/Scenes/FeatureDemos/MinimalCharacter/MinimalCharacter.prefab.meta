@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f20f1308ce01cc04bbecc8823856d46d
+timeCreated: 1481293621
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/MinimalCharacter/MinimalCharacter.prefab
+  uploadId: 597273

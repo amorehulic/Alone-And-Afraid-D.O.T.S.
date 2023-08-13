@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0f536c633c745bc4b837100c8e3fe10e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Behaviours/Editor/AlignWithVelocityBehaviourEditor.cs
+  uploadId: 597273

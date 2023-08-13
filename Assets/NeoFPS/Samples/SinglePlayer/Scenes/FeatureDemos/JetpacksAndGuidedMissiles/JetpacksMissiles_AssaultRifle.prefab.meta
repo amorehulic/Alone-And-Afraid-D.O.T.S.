@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6269bd3be62ab784dada46ff84118e16
+timeCreated: 1493908133
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/JetpacksAndGuidedMissiles/JetpacksMissiles_AssaultRifle.prefab
+  uploadId: 597273

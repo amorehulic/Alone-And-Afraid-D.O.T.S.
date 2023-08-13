@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d9903b77c159354e813334bea6182ae
+timeCreated: 1494241534
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Materials/Decals/HitDecal_Concrete01.mat
+  uploadId: 597273

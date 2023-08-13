@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ef99232a73781f4e82ad9bc5d1f9a66
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/Attachments/Attachment_Revolver_BarrelMedium.prefab
+  uploadId: 597273

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: fc67701454c87d44098e8f1144a70002
+timeCreated: 1524650414
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Interaction/Doors/LockedTriggerZone.cs
+  uploadId: 597273

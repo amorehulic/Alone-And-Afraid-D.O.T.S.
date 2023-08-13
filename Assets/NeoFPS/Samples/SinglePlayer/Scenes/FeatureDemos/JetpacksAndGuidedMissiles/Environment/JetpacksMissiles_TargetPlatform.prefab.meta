@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac17862e5af15ca408c31c4e7a09bb3b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/JetpacksAndGuidedMissiles/Environment/JetpacksMissiles_TargetPlatform.prefab
+  uploadId: 597273

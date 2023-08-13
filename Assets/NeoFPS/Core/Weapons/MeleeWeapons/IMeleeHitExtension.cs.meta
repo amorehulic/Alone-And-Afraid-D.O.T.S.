@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 17e7027c5bf31054ea52575cd3d8d9bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/MeleeWeapons/IMeleeHitExtension.cs
+  uploadId: 597273

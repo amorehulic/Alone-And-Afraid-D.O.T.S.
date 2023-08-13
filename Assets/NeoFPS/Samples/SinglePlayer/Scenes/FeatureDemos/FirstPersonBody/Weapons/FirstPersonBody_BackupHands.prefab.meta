@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d78732c4a72805a43bc4cc2dd147ab17
+timeCreated: 1517997820
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FirstPersonBody/Weapons/FirstPersonBody_BackupHands.prefab
+  uploadId: 597273

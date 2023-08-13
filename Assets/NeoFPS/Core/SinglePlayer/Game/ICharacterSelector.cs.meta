@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 21a6d1a20290ca84e99e9efea044cc7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/SinglePlayer/Game/ICharacterSelector.cs
+  uploadId: 597273

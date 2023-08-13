@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9cb148929316d22459410148fef05112
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Environment/Feature03/Prototype_Feature03_Box2x2x1.prefab
+  uploadId: 597273

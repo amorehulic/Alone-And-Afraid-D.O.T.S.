@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08d5692309824c5419e50e2d8ce7f414
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/QuickStarts/Quickstart_Firearms01_MuzzleEffects.asset
+  uploadId: 597273

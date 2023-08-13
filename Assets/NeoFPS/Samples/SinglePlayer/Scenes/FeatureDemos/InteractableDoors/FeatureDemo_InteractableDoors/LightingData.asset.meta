@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f3fb29d398b08c45ac29b43b0262ed7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/InteractableDoors/FeatureDemo_InteractableDoors/LightingData.asset
+  uploadId: 597273

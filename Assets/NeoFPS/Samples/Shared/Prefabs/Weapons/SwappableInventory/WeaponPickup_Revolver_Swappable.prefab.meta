@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f8626d99312a57140b6744d1d9534827
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/SwappableInventory/WeaponPickup_Revolver_Swappable.prefab
+  uploadId: 597273

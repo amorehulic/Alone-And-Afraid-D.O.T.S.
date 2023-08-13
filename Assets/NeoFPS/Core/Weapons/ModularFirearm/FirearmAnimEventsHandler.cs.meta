@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7d1b93839ff43fb4cadf2a2b672b6c40
+timeCreated: 1519395808
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/FirearmAnimEventsHandler.cs
+  uploadId: 597273

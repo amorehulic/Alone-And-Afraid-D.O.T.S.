@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e1844af056ce75489f6861ad63c054a
+timeCreated: 1506693811
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/Ammo/Inventory_Ammo12gauge_8.prefab
+  uploadId: 597273

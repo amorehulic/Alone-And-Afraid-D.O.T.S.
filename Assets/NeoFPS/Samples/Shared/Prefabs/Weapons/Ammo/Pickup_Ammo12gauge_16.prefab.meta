@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 21cf6f4f9a99eed46a5b408fcd03639e
+timeCreated: 1506693811
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/Ammo/Pickup_Ammo12gauge_16.prefab
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a0542683cceb5fb41b2420f841b79e0a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/Attachments/Attachment_Revolver_OpticsScope.prefab
+  uploadId: 597273

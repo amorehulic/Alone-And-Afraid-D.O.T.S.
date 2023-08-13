@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8dc90325fa20a94090a453043ee6ac5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/QuickStarts/Quickstart_Characters02_HealthShieldsAndArmour.asset
+  uploadId: 597273

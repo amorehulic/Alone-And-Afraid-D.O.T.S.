@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7d54e8e3f695534ba7316c3f1795430
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Prefabs/MapCaptureCamera.prefab
+  uploadId: 597273

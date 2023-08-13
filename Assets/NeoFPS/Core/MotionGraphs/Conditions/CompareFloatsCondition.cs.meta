@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7cbe363ea657e3845987deea030ab12c
+timeCreated: 1531409528
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Conditions/CompareFloatsCondition.cs
+  uploadId: 597273

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7d9fb62611d20e141a172ad20b5d428d
+timeCreated: 1506786689
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Constants/FpsInventoryKey.cs
+  uploadId: 597273

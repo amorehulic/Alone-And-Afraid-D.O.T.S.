@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bad1db04d67011442b3b7d03360b1ad6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/MuzzleFlashes/MuzzleFlashLight.prefab
+  uploadId: 597273

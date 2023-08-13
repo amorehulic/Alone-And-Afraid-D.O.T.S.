@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1bda60e766ccc64e9b278e92a604000
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/Attachments/Attachment_Revolver_BarrelStub.prefab
+  uploadId: 597273

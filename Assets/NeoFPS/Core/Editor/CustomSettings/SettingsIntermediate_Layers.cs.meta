@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: df1c9d19ec3f9b340bcf80670a6e9e89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Editor/CustomSettings/SettingsIntermediate_Layers.cs
+  uploadId: 597273

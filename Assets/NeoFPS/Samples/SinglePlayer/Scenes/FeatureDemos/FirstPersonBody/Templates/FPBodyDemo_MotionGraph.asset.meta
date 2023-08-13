@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0112aba6c510de34489c931376d320bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FirstPersonBody/Templates/FPBodyDemo_MotionGraph.asset
+  uploadId: 597273

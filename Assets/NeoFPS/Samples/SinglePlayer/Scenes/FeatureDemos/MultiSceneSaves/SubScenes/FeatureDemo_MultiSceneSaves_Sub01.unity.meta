@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0972171b8fe56b945a67aed054f3385f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/MultiSceneSaves/SubScenes/FeatureDemo_MultiSceneSaves_Sub01.unity
+  uploadId: 597273

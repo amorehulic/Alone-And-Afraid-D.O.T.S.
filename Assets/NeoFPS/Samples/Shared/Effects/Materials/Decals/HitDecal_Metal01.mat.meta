@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c335755bc27a511439f4c28991808d4b
+timeCreated: 1494241534
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Materials/Decals/HitDecal_Metal01.mat
+  uploadId: 597273

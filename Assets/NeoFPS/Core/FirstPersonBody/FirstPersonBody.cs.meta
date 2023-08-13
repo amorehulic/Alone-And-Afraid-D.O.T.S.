@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7c07ebb1d227b414a92904a3e0163463
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/FirstPersonBody/FirstPersonBody.cs
+  uploadId: 597273

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f19fb42a5e3b774c977fa103181852a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6475696996188705980
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/MultiSceneSaves/FeatureDemo_MultiSceneSaves_Main/LightingData.asset
+  uploadId: 597273

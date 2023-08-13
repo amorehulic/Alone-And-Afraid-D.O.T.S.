@@ -1,0 +1,7 @@
+﻿namespace GPUECSAnimationBaker.Engine.AnimatorSystem
+{
+    public enum @ENUMNAME@
+    {
+@IDLIST@
+    }
+}

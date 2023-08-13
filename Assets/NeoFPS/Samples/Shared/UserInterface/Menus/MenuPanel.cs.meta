@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a3458f9b070eb7f4b8d2bad2961f4df3
+timeCreated: 1497353328
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/UserInterface/Menus/MenuPanel.cs
+  uploadId: 597273

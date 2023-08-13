@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec05646390a18d64aa9d35110c5c919e
+timeCreated: 1517237854
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/QuickSwitchInventory/Thrown_FragGrenadeFull_Quickswitch.prefab
+  uploadId: 597273

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 917a0521ce8e08a43bcdb2bde1ee60c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Recoil/Editor/BaseRecoilHandlerBehaviourEditor.cs
+  uploadId: 597273

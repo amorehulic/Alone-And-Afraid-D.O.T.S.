@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b8748f5d96a6af44ae8739f06b85c3f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FiringRange/FiringRange_Whackamole.prefab
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc96e94fdf8e59d4daef231ef375c92e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FirstPersonBody/Weapons/FirstPersonBody_PickupBaton.prefab
+  uploadId: 597273

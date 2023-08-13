@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d7b29b62bb5db4b4ea468e10d3da71a9
+timeCreated: 1511519599
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Utilities/Pooling/Editor/PooledObjectCollectionEditor.cs
+  uploadId: 597273

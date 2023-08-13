@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f7a7016fd75c43a40b7adb11a4e077b4
+timeCreated: 1485001189
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/HUD/AmmoCounter.prefab
+  uploadId: 597273

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d93f2b92cd67ced4897d7fb9e583ff66
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FiringRange/FeatureDemo_FiringRange/LightingData.asset
+  uploadId: 597273

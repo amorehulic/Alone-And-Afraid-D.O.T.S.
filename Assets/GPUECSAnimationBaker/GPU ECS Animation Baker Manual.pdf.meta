@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30a9c87348a38e84eab7791e2830d085
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250425
+  packageName: GPU ECS Animation Baker
+  packageVersion: 1.0.1
+  assetPath: Assets/GPUECSAnimationBaker/GPU ECS Animation Baker Manual.pdf
+  uploadId: 599725

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d70a0169b5a7ca0499cffda45940c9c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/Trails/LineAndParticleBulletTrail.prefab
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3e8b82b1462d804da87cc0cbb4002c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FirstPersonBody/Weapons/FirstPersonBody_FirearmAssaultRifle.prefab
+  uploadId: 597273

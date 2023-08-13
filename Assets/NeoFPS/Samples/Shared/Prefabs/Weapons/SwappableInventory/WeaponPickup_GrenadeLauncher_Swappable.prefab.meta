@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4993f5cd4a4a5c14892e25131b79aaf0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/SwappableInventory/WeaponPickup_GrenadeLauncher_Swappable.prefab
+  uploadId: 597273

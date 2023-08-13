@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38d309c2598a2ba43a06dd5ca3d557a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Ladders/LaddersDemo_InteractiveLadder.prefab
+  uploadId: 597273

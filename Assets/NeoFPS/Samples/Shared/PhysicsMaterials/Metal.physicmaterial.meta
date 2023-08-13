@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b58433ba7f09bb54fa62c094a8cd59e6
+timeCreated: 1427463081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/PhysicsMaterials/Metal.physicmaterial
+  uploadId: 597273

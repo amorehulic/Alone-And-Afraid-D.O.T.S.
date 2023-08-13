@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fdcf2eb309e9cf647b7710f6d7cc5f60
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ScriptCreationWizard/Templates/NewRecoilModule.txt
+  uploadId: 597273

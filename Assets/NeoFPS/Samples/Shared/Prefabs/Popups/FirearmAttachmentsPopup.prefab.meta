@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7718d1b0ff711404c932c224055ce865
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Popups/FirearmAttachmentsPopup.prefab
+  uploadId: 597273

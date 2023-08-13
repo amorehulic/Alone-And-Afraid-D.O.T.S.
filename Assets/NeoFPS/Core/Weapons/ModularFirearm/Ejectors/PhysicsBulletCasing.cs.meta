@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c5bb0f8967e2f7343b78709c68a159e8
+timeCreated: 1506607986
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Ejectors/PhysicsBulletCasing.cs
+  uploadId: 597273

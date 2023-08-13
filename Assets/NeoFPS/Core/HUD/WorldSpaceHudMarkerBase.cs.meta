@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1b034f2707e1bcc478a9255a02f8e156
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 260
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/HUD/WorldSpaceHudMarkerBase.cs
+  uploadId: 597273

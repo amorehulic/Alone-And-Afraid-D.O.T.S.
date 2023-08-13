@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e676a49fd4ba49e428f1da2b2ae60194
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Behaviours/Editor/AnimatorSpeedBehaviourEditor.cs
+  uploadId: 597273

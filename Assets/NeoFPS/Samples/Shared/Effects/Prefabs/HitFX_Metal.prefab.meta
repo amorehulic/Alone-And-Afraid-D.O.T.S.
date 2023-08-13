@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee9368027d7d1cd40a4146e81ecb8aca
+timeCreated: 1494005143
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Prefabs/HitFX_Metal.prefab
+  uploadId: 597273

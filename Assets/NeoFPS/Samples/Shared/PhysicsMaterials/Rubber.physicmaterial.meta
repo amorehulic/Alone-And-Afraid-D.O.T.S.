@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96d4a314459ac2e4192cfae4db7e3654
+timeCreated: 1427463081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/PhysicsMaterials/Rubber.physicmaterial
+  uploadId: 597273

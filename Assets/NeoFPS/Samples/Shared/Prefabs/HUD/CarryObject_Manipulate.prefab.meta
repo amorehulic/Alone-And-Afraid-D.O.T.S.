@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da64e0c700d46514ab92856b6991b880
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/HUD/CarryObject_Manipulate.prefab
+  uploadId: 597273

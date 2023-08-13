@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9ad03ead8311bc49a62fb73ccb300be
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/Trails/AdditiveBulletTrail_Dissolve.prefab
+  uploadId: 597273

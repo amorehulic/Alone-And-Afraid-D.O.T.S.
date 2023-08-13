@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 528c479735792b04780dd0ca98fc8ed1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/MeleeWeapons/MeleeWieldableStanceManager.cs
+  uploadId: 597273

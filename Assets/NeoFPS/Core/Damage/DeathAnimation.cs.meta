@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3fdd8d66d3bf9ad4b9f0bc5ba9bcf8ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Damage/DeathAnimation.cs
+  uploadId: 597273

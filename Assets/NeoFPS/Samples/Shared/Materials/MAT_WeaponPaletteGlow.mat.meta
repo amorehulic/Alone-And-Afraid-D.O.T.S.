@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c36867809d4c7b49b5e3316681934ae
+timeCreated: 1486644654
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Materials/MAT_WeaponPaletteGlow.mat
+  uploadId: 597273

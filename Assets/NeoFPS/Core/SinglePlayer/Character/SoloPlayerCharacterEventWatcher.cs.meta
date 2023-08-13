@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b9ad606a63b47bd428e5bd6041fde8bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/SinglePlayer/Character/SoloPlayerCharacterEventWatcher.cs
+  uploadId: 597273

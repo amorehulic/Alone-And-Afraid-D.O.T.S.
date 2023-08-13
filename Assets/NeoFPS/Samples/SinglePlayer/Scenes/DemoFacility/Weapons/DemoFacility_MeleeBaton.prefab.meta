@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b2845fc7178e7b48b6753e76f548de0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/DemoFacility_MeleeBaton.prefab
+  uploadId: 597273

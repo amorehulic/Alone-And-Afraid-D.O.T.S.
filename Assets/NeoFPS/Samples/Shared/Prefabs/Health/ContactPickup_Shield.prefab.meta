@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1f44699ef8b53242a465eed22d02d76
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Health/ContactPickup_Shield.prefab
+  uploadId: 597273

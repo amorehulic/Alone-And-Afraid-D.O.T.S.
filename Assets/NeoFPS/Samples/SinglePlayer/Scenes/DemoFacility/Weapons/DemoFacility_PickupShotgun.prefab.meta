@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6de17b12f33dee469f6bda68ff93224
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/DemoFacility_PickupShotgun.prefab
+  uploadId: 597273

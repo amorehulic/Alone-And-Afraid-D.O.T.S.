@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6983dd5eb499259449fc0f13dea71c6c
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Geometry/Character/MenuIdleController.controller
+  uploadId: 597273

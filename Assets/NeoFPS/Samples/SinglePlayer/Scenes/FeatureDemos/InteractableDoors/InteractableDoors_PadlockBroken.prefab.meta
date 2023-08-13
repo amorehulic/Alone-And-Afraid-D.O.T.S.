@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c06e63cb266b704791ce8c67da8b101
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/InteractableDoors/InteractableDoors_PadlockBroken.prefab
+  uploadId: 597273

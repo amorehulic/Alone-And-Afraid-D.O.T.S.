@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a7c204d52970f5443b9443ef1b1e2034
+timeCreated: 1493648482
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Reloaders/00_IReloader.cs
+  uploadId: 597273

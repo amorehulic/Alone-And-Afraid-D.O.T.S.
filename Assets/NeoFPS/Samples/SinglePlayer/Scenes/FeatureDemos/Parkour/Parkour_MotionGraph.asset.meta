@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8116c203dfe52274fb08e9f70887dedd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Parkour/Parkour_MotionGraph.asset
+  uploadId: 597273

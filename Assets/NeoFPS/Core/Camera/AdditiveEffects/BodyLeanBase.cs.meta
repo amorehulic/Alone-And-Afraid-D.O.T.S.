@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a6bff2b270e2918418fdffd9e938e04b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Camera/AdditiveEffects/BodyLeanBase.cs
+  uploadId: 597273

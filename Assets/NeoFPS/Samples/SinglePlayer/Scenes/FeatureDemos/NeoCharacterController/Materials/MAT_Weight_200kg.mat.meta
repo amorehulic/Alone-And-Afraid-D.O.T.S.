@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab11ea60be173584fa465eb8ffc271ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/NeoCharacterController/Materials/MAT_Weight_200kg.mat
+  uploadId: 597273

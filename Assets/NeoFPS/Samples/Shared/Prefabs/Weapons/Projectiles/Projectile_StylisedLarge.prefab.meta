@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3bf40ece4684ae54da9a0875f9087fc9
+timeCreated: 1502115381
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/Projectiles/Projectile_StylisedLarge.prefab
+  uploadId: 597273

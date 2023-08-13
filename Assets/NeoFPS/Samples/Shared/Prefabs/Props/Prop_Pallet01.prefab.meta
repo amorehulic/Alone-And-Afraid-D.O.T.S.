@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 68f2e9edae042244e90587259df66b26
+timeCreated: 1508008523
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Props/Prop_Pallet01.prefab
+  uploadId: 597273

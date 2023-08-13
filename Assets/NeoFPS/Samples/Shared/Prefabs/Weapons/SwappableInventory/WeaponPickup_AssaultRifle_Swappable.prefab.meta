@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 606613b4389821549864895f78423ca1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/SwappableInventory/WeaponPickup_AssaultRifle_Swappable.prefab
+  uploadId: 597273

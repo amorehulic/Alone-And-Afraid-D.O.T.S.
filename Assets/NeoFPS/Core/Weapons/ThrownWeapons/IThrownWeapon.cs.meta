@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bebe51f58a67cac488903b7a0f4405c4
+timeCreated: 1517243281
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ThrownWeapons/IThrownWeapon.cs
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b06c6b253450ec4a847a3d3bb557c72
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/InteractableDoors/FeatureDemo_InteractableDoors.unity
+  uploadId: 597273

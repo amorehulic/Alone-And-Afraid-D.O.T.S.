@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2345fa8f7cb306c499e81465ce9c1bd8
+timeCreated: 1481293621
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Prefabs/NeoFpsSoloPlayerCharacter.prefab
+  uploadId: 597273

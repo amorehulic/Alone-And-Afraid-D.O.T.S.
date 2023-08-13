@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c2b9a6357f4ffd4fa1292ea92ded370
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/Attachments/Attachment_Tactical_Flashlight.prefab
+  uploadId: 597273

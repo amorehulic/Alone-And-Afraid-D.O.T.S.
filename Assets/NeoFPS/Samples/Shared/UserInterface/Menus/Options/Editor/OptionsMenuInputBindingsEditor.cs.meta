@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1e48fb238bc76d3449f28b755eba697c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/UserInterface/Menus/Options/Editor/OptionsMenuInputBindingsEditor.cs
+  uploadId: 597273

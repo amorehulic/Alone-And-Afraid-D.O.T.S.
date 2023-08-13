@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6aa9c6c6728143e489ebf76eb4950951
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Editor/ModularFirearmAttachmentGroupEditor.cs
+  uploadId: 597273

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e35ed2c25abc0ec46a95f82451d8764e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Inventory/Examples/Editor/FpsInventoryDatabaseEditor.cs
+  uploadId: 597273

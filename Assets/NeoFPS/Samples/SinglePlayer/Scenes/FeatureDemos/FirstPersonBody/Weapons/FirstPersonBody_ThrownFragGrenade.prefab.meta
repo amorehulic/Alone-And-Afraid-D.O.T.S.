@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b366d21c300ba3a4cb1e0e259138894f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FirstPersonBody/Weapons/FirstPersonBody_ThrownFragGrenade.prefab
+  uploadId: 597273

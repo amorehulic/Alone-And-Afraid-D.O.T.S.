@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8818950482c774646b42486eae6582b2
+timeCreated: 1481293621
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Legacy/Characters/Legacy_SwimmingCharacter.prefab
+  uploadId: 597273

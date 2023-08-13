@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d70535e14695b5a439957e2352dbc7da
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Inventory/Lockpick.prefab
+  uploadId: 597273

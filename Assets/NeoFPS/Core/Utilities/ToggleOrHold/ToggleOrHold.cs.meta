@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 92dbf3e0246ac6d4ca1ada86da449be2
+timeCreated: 1485008562
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Utilities/ToggleOrHold/ToggleOrHold.cs
+  uploadId: 597273

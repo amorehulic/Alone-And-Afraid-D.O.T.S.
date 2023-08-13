@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ec3d31339b953f4eb7e015de46ebecf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Props/Prop_InfoPoint.prefab
+  uploadId: 597273

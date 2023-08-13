@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cbf2e2a6eb063634e8721ec4fe7e22c4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/MovingPlatforms/MovingPlatforms_Turner.prefab
+  uploadId: 597273

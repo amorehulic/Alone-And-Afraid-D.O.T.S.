@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32b2ff95f8615034faa1b6254075db6e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Shaders/NeoFPS_Shockwave_Standard.shader
+  uploadId: 597273

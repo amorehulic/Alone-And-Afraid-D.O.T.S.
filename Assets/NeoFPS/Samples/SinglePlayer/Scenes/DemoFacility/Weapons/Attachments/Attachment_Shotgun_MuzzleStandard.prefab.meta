@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38dfad8b9c46f4145a60602d875d4a78
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/Attachments/Attachment_Shotgun_MuzzleStandard.prefab
+  uploadId: 597273

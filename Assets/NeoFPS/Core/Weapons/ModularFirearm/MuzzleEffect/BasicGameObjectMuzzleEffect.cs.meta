@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e7eac4a001d60634396b81c21e885a8d
+timeCreated: 1493398925
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/MuzzleEffect/BasicGameObjectMuzzleEffect.cs
+  uploadId: 597273

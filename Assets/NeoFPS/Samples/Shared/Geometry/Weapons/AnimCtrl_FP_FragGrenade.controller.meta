@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 96190c1a6d73b554ebc3dc67aafbfe81
+timeCreated: 1517241262
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Geometry/Weapons/AnimCtrl_FP_FragGrenade.controller
+  uploadId: 597273

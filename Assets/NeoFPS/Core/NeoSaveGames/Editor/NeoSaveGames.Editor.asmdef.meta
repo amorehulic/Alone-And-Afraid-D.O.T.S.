@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c1726bb5806db84cac654a7d61a62b7
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/NeoSaveGames/Editor/NeoSaveGames.Editor.asmdef
+  uploadId: 597273

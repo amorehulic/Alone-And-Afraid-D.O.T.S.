@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c15c756b85d5c2a4eb6c413c550844cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ItemCreationWizards/Wizards/ThrownWeapons/ThrownWeaponExistingAnimatorStep.cs
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d2e7f113567e8349ac071bd9fe5b06b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/HUD/CarryObject_TargetTooHeavy.prefab
+  uploadId: 597273

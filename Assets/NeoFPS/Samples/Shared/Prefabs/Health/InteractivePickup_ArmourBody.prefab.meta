@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37d653d29d3e2134b9ca80e2406cd6ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Health/InteractivePickup_ArmourBody.prefab
+  uploadId: 597273

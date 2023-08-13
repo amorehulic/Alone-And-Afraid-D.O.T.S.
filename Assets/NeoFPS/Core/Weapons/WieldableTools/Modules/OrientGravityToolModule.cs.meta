@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f81fd598282029a4180539f02ec40e87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 255
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/WieldableTools/Modules/OrientGravityToolModule.cs
+  uploadId: 597273

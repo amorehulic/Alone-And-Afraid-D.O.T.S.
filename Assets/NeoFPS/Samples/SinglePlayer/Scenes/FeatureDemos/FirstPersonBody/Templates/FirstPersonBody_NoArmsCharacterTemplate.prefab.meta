@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3848ce30603fdc44e9bb1234674f393c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/FirstPersonBody/Templates/FirstPersonBody_NoArmsCharacterTemplate.prefab
+  uploadId: 597273

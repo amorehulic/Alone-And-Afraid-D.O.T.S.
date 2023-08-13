@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a8fc7282cebcf0646ac292de0214a008
+timeCreated: 1493377280
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Ejectors/01_BaseEjectorBehaviour.cs
+  uploadId: 597273

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a25cc27d48d09bc4cae208ddf6bc38cb
+timeCreated: 1485001189
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/HUD/FirearmMode.prefab
+  uploadId: 597273

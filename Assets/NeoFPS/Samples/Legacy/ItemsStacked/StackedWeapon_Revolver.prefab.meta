@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d3ffcf851c25ff40a624b3c7db8fcda
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Legacy/ItemsStacked/StackedWeapon_Revolver.prefab
+  uploadId: 597273

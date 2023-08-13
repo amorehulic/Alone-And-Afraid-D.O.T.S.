@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4b11ae2b73c10448829c0ced8d5183c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Environment/DarkGrey/Prototype_Dark_WallThin1x2.prefab
+  uploadId: 597273

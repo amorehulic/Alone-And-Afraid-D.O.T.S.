@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a1965ba5c60f5b3478a3dae174655d35
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Shaders/Optics/NeoFPS_HoloSightStencilGlass.shader
+  uploadId: 597273

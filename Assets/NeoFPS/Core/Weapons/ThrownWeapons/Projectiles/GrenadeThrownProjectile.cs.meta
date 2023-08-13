@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0c232ebe8eb954c449946357c3e11f6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ThrownWeapons/Projectiles/GrenadeThrownProjectile.cs
+  uploadId: 597273

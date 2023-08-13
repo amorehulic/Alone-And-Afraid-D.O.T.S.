@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb62f4032d57a8346832ecacfeb9bbef
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Shaders/NeoFPS_ShadowCasterOnly.shader
+  uploadId: 597273

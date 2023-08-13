@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 820beb3ec2e227745837fd94745aaf71
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ScriptCreationWizard/Templates/NewNeoSerializableMonoBehaviour.txt
+  uploadId: 597273

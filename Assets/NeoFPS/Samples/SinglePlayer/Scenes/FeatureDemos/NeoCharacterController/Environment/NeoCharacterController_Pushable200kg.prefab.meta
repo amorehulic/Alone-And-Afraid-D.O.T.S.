@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 053ae190a7f416247ad6a018b7f145eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/NeoCharacterController/Environment/NeoCharacterController_Pushable200kg.prefab
+  uploadId: 597273

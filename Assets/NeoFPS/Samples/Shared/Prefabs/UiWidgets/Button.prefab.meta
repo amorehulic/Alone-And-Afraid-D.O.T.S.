@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2c9cb006f08a8e40b81ea294605f8c0
+timeCreated: 1513962713
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/UiWidgets/Button.prefab
+  uploadId: 597273

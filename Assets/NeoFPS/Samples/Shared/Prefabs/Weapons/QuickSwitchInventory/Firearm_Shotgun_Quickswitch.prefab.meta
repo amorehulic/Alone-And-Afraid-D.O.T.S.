@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c78023ecc606bf84bbc16ef3cafa093d
+timeCreated: 1493908133
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/QuickSwitchInventory/Firearm_Shotgun_Quickswitch.prefab
+  uploadId: 597273

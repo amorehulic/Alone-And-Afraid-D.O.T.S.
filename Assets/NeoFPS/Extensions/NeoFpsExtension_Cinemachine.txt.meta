@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e1bd12aaa21bd54ca79f90f42565017
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Extensions/NeoFpsExtension_Cinemachine.txt
+  uploadId: 597273

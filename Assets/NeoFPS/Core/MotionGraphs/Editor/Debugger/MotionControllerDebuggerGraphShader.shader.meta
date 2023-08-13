@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4958c3334cde59042af821c6921490f7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Editor/Debugger/MotionControllerDebuggerGraphShader.shader
+  uploadId: 597273

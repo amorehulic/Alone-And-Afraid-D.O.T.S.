@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1ae2a6c1edc6cd45b7a307a805fce7a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Health/InventoryDrop_Rucksack.prefab
+  uploadId: 597273

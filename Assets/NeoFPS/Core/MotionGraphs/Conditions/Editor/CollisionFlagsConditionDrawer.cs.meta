@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: eb56c67b6adf261468c02960c941b248
+timeCreated: 1530796907
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Conditions/Editor/CollisionFlagsConditionDrawer.cs
+  uploadId: 597273

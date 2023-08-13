@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ce624d4a1c648747ac74f0ae5c057ee
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Editor/CustomSettings/CustomSettings_Input.json
+  uploadId: 597273

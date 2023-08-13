@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8dac34d6f2daea468d0b6f443349a24
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Inventory/FeatureDemo_InventoryStandard.unity
+  uploadId: 597273

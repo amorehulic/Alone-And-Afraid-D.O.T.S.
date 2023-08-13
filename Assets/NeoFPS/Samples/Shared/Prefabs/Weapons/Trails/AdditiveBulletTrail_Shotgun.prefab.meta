@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f61d55ecd2adfc047893264ad63bf455
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/Trails/AdditiveBulletTrail_Shotgun.prefab
+  uploadId: 597273

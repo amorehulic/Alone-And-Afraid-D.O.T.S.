@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9e9c9c179db30e4aa416f6cb1e18555
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Legacy/ItemsSwappable/SwappableDrop_AssaultRifle.prefab
+  uploadId: 597273

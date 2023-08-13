@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4dc7aeb2585879e4c8a6e07afdd579b4
+timeCreated: 1517241242
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Geometry/Weapons/AnimCtrl_FP_Hands.controller
+  uploadId: 597273

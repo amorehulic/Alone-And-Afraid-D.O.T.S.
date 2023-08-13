@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2da118faf63cf3a439b7d8cf3498c013
+timeCreated: 1530120404
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Editor/MotionGraphEditorStyles.cs
+  uploadId: 597273

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38f0032b6b1b3f04080b165ba91af2ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Materials/MAT_PropCargoNeutral.mat
+  uploadId: 597273

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c346d384be8ac94ba1053fa2102c77c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Hub/Editor/Pages/Wizards/ScriptCreationWizard/Templates/NewMotionGraphStateEditor.txt
+  uploadId: 597273

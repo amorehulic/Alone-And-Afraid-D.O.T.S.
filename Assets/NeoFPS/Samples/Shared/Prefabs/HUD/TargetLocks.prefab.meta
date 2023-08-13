@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 211d83836a5d440499fd591562faff89
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/HUD/TargetLocks.prefab
+  uploadId: 597273

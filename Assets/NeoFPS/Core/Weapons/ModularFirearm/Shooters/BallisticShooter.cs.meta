@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ef0d26ddabcfad944b08c141de6025ec
+timeCreated: 1484838153
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Shooters/BallisticShooter.cs
+  uploadId: 597273

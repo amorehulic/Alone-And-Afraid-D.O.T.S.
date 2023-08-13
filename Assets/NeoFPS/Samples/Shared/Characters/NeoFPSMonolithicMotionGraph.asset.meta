@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d05ff4d671db97c44a9fb4d0c4f782be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Characters/NeoFPSMonolithicMotionGraph.asset
+  uploadId: 597273

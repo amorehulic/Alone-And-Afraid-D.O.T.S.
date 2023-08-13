@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c032d23aee4a73146ab46bf286267eb8
+timeCreated: 1504613367
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Interaction/IInteractiveObject.cs
+  uploadId: 597273

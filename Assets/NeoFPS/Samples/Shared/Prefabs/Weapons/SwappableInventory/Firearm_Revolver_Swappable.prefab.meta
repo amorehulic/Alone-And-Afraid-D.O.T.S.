@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2bcaf6980ec44c4cbca0ac7d5f75760
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/SwappableInventory/Firearm_Revolver_Swappable.prefab
+  uploadId: 597273

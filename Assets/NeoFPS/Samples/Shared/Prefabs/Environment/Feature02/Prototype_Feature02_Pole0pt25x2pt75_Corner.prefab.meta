@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03b8374e4d86b27459f09e733cac2920
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Environment/Feature02/Prototype_Feature02_Pole0pt25x2pt75_Corner.prefab
+  uploadId: 597273

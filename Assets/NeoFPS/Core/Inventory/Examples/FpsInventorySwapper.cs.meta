@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 08fb51a2d1fc4aa439f849914d00f813
+timeCreated: 1544010543
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Inventory/Examples/FpsInventorySwapper.cs
+  uploadId: 597273

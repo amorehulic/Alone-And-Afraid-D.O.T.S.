@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd7839cb1ed11084eb30ee15a31d7bce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/DemoFacility/Weapons/Attachments/Attachment_Revolver_OpticsRedDotRMR.prefab
+  uploadId: 597273

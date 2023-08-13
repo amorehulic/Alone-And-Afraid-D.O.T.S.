@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 74280cab950d2064c84d6aead2084c11
+timeCreated: 1530796907
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/MotionGraphs/Conditions/Editor/SwitchConditionDrawer.cs
+  uploadId: 597273

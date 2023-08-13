@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b931a16c8a1fd14fbbd37dea842a982
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Persistence/FeatureDemo_Persistence02.unity
+  uploadId: 597273

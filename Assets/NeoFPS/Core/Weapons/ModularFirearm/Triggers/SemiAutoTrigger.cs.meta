@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d3816b05e892dbb4ea235ebe3055ad3d
+timeCreated: 1493398561
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Triggers/SemiAutoTrigger.cs
+  uploadId: 597273

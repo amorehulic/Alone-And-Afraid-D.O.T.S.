@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0fc5d3c244d21084ba58af8461c06eb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Weapons/ModularFirearm/Shooters/GuidedProjectiles/NearestObjectWithTagTracker.cs
+  uploadId: 597273

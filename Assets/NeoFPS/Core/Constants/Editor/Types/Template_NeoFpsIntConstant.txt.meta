@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 897da003026b2cf4fb3623c5a0766e24
+timeCreated: 1505321035
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Core/Constants/Editor/Types/Template_NeoFpsIntConstant.txt
+  uploadId: 597273

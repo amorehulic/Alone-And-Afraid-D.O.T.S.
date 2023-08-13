@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f7da0730a96fc44b8245c23ef64baab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/Swimming/Swimming_Spawner.prefab
+  uploadId: 597273

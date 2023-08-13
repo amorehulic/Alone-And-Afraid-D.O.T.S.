@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd1d930fd1badb74690b9859700f3c93
+timeCreated: 1481127067
+licenseType: Pro
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Effects/Materials/VFX_Shockwave.mat
+  uploadId: 597273

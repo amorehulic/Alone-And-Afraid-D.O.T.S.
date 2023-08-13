@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c2e034408f555142ba36521a492947e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Environment/TextCharacters/NeoFpsPrototype_Char_2.prefab
+  uploadId: 597273

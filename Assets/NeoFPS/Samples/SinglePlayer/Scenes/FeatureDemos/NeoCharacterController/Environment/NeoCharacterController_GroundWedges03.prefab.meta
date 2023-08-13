@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86ac34065b5844e4d9f4704831d4b16f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/NeoCharacterController/Environment/NeoCharacterController_GroundWedges03.prefab
+  uploadId: 597273

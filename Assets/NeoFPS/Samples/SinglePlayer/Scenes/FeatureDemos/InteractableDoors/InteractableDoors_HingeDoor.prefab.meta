@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5379f7525c76834d9f4d218ae4f056b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/SinglePlayer/Scenes/FeatureDemos/InteractableDoors/InteractableDoors_HingeDoor.prefab
+  uploadId: 597273

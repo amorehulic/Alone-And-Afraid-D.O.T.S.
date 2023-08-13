@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 104208c344e2add44bd9efa7cf0204bd
+timeCreated: 1507556437
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150179
+  packageName: 'NeoFPS: FPS Controller, Template & Toolkit'
+  packageVersion: 1.1.26
+  assetPath: Assets/NeoFPS/Samples/Shared/Prefabs/Weapons/Ammo/AmmoType_12gauge.asset
+  uploadId: 597273
